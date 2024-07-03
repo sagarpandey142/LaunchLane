@@ -72,36 +72,37 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "StudyNotion ~ An Edtech Platform",
+    des: " Designed, and deployed StudyNotion, a cutting-edge MERN stack educational platform incorporating MongoDB, Express.js, React.js, and Node.js, with JWT authentication",
+    img: "/project1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://study-notion-ruddy-xi.vercel.app/",
   },
   {
     id: 2,
+    title: "Co-Partner ~ Web Version",
+    des: " Developed a co-partner app leveraging React Native, JWT, Express, and MongoDB to address the challenge of college students finding project partners.",
+    img: "/project2.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "/https://github.com/sagarpandey142/Co-Partner-Web-",
+  },
+  {
+    id: 3,
     title: "Yoom - Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://ui.yoom.com",
   },
+
   {
-    id: 3,
+    id: 4,
     title: "AI Image SaaS - Canva Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
-  },
+  }
 ];
 
 export const testimonials = [
@@ -192,26 +193,22 @@ export const workExperience = [
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
 ];
 
 export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    Link:"https://github.com/sagarpandey142"
   },
   {
     id: 2,
     img: "/twit.svg",
+    Link:"https://x.com/sagarwebsec"
   },
   {
     id: 3,
     img: "/link.svg",
+    Link:"https://www.linkedin.com/in/sagar-pandey-038a0a316/"
   },
 ];
