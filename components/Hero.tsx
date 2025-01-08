@@ -6,6 +6,9 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import { useEffect } from "react";
 
+
+const Hero = () => {
+  
 useEffect(() => {
   if (typeof document !== "undefined") {
     const element = document.getElementById("myElement");
@@ -21,8 +24,6 @@ if (typeof document !== "undefined") {
     element.style.display = "none";
   }
 }
-
-const Hero = () => {
   return (
     <div className="pb-20 pt-36">
       {/**
