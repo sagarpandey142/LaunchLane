@@ -108,33 +108,21 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with LaunchLane was a game-changer for our business. They built a stunning, user-friendly website that perfectly represents our brand. Their attention to detail, creativity, and technical expertise were beyond impressive. If you're looking for a team to bring your vision to life, LaunchLane is the one.",
+    name: "Emily Carter",
+    title: "CEO of BrightPath Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "LaunchLane transformed our outdated website into a modern masterpiece. The process was seamless, and their team was incredibly supportive and knowledgeable throughout. They didn't just deliver a website; they delivered a platform that truly connects with our audience. Highly recommended!",
+    name: "James Thornton",
+    title: "Marketing Manager at SkyBound Logistics",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From start to finish, LaunchLane exceeded our expectations. They created a sleek and professional website that not only looks fantastic but also performs flawlessly. Their dedication to understanding our needs and delivering exceptional results was unparalleled. LaunchLane is the perfect partner for any web project.",
+    name: "Sophia Bennett",
+    title: "Founder of Lumière Design Co.",
   },
 ];
 

@@ -7,8 +7,8 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sagar's Portfolio",
-  description: "Modern & Minimal JS Mastery Portfolio",
+  title: "Launchlane Software Pvt Ltd",
+  description: "Modern & Minimal ",
 };
 
 export default function RootLayout({

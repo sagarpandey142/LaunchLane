@@ -57,12 +57,12 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Sagar, a Next.js Developer based in India.
+            Hi! This is LaunchLane Software Pvt Ltd, Company based in India.
           </p>
 
           <a href="#about">
             <MagicButton
-              title="Show my work"
+              title="Show Our work"
               icon={<FaLocationArrow />}
               position="right"
             />
