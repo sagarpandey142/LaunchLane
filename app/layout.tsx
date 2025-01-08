@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 
 import "./globals.css";
 import { ThemeProvider } from "./provider";
+import { useEffect } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,6 +17,11 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  useEffect(() => {
+    // Access document object here
+
+    console.log(document.title);
+  }, []);
   return (
     <html lang="en" suppressHydrationWarning>
       <head>

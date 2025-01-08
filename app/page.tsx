@@ -14,13 +14,6 @@ import { useEffect, useState } from "react";
 
 const Home = () => {
 
-     const [docEnv, setDocEnv] = useState(false);
-
-    useEffect(() => {
-        if (typeof document !== "undefined") {
-            setDocEnv(true);
-        }
-    }, []);
   
   return (
     <main className="relative bg-black-100 flex justify-center items-center flex-col overflow-hidden mx-auto sm:px-10 px-5">
